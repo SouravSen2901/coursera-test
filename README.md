@@ -1,2 +1,2 @@
-# coursera-test
+# Hotel Management
 coursera-test repository
